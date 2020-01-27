@@ -26,32 +26,6 @@ Table of Contents
       Viewing-deleting-notifications
       Feedback-Help
 
-Searching for topics
---------------------
-You can search for topics on the `CyVerse Wiki <https://wiki.cyverse.org/wiki/dashboard.action>`_ about the Discovery Environment, or search for topics in all CyVerse spaces. 
-The CyVerse Wiki uses the Atlassian Confluence open source application. 
-For assistance with creating useful search queries for use on the CyVerse wiki pages, please see `Confluence Search Syntax <https://confluence.atlassian.com/doc/confluence-search-syntax-158720.html>`_
-or `Searching Confluence <https://confluence.atlassian.com/display/DOC/Searching+Confluence>`_.
-
-
-- **To search in the Discovery Environment manual only:** To find a topic about the Discovery Environment, enter a word or phrase in the search field at the upper left of the screen above the navigation list:
-.. image:: img/de/SearchSpace.jpg
-
-- **To search all spaces in the entire CyVerse wiki:** Enter a word or phrase in the Search Confluence field at the upper right of the screen next to your username:
-.. image:: img/de/WikiSearchAllSpaces.jpg
-
-
-About using this user guide
----------------------------
-**Exporting a page to PDF**
----------------------------
-A logged-in user can export a page in this manual as a PDF. To do so, click **Tools** at the top right, click **Export to PDF**, and then save to your system.
-
-If you find an error in the manual, have a question, or want to make a suggestion regarding the documentation for this manual, please email `Kathleen Kennedy, Documentation Coordinator <kkennedy@iplantcollaborative.org>`_. 
-Thanks for your help!
-
-If you find an error, have a question, or want to make a suggestion regarding the documentation for an app in the DE, please contact the `integrator of the app <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+App+and+Tool+Information>`_.
-
 **Navigating the app**
 ----------------------
 While much of the interface is intuitive and easy to use, there are a few tips to keep in mind as you move between windows in the DE.
