@@ -14,21 +14,8 @@ To get you started, you may want to read through the introductory information in
 Hints for how to use this manual are also on this page, as well as how to search for topics in this wiki space, and navigating the DE.
 
 
-Navigating this manual
-----------------------
-
-
-View all pages for the Discovery Environment manual in the Table of Contents in the left panel. 
-If the Table of Contents is not displayed on the left, click the Show or hide sidebar icon at the top right of the screen:
-
-.. image:: img/de/WikiCloseOpenNavBar.jpg
-  :width: 20
-
-.. |search_folder| image:: img/de/WikiExpandFolder.jpg
-  :width: 200
-
-
-This manual uses the familiar method of organizing pages by folder. To expand a folder, click the |search_folder| next to the page.
+Table of Contents
+-----------------
 
 
 .. toctree::
