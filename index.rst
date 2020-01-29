@@ -4,24 +4,29 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**MANUAL NAME**
-=================
+**Discovery Environment Manual**
+================================
 
-.. #### Comment: If the platform has an ICON place it here
 
-Welcome to [Platform]!
------------------------
-.. #### Comment: If the platform has an ICON place it here
+
+Welcome to Discovery Environment!
+---------------------------------
+
 
 ----
 
 .. toctree::
 	:maxdepth: 2
+  using_DE.rst
+  managing-dataFiles.rst
+  using_VICE.rst
+  using-appsWindow.rst
+  new-appInterface.rst
+  using-analysisWindow.rst
+  troubleshooting.rst
+  glossary.rst
+  file-Lists.rst
 
-	[Platform] Manual home <self>
-	[Platform] Major functionality n <step1.rst>
-	[Platform] Last major functionality <step2.rst>
-	[Platform] FAQs <faq.rst>
 	Delete this example guide page <example_directives_delete.rst>
 
 ..

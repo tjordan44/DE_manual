@@ -11,7 +11,7 @@
 
 Welcome to the user manual for the CyVerse Discovery Environment (DE). Here you'll find all the how-to instructions for using the DE. 
 To get you started, you may want to read through the introductory information in the Quick Links. 
-Hints for how to use this manual are also on this page, as well as how to search for topics in this wiki space, and navigating the DE.
+Hints for how to use this manual are also on this page.
 
 
 Table of Contents
