@@ -9,13 +9,15 @@
 ==================================
 
 The Data window contains both input data files that are used in analyses and output data files that are returned as the result of completed analyses. 
-Input data files can be uploaded or imported to your personal workspace from your desktop or from URL, as well as made available by other users in the Community Data folder and shared with others.
+Input data files can be uploaded or imported to your personal workspace from your desktop or from URL, as well as made available by other users in the Community Data folder and `shared <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+and+Unsharing+Data+Files+and+Folders+in+the+DE>`_ with others.
 
 This section discusses how to organize and maneuver data files and folders in your Data window, including viewing and changing the file's info-type.
 
-For information on using data files in your analyses, see Submitting an Analysis.
+For information on using data files in your analyses, see `Submitting an Analysis <https://wiki.cyverse.org/wiki/display/DEmanual/Submitting+an+Analysis>`_.
 
-You can access and manage data from outside the DE as well. For more information, see Downloading and Uploading Data.
+You can access and manage data from outside the DE as well. For more information, see `Downloading and Uploading Data <https://wiki.cyverse.org/wiki/display/DS/Downloading+and+Uploading+Data>`_.
+
+
 
 
 
@@ -43,9 +45,89 @@ Window Icons
     * - |WindowIcon-minMaxClose|
       - Minimize, Maximize, or close the active window. 
 
-
+----------
 Data Menus
 ----------
+.. |datamenu| image:: img/de/DataMenu.jpg
+
+The Data toolbar helps you `manage files and folders. <https://wiki.cyverse.org/wiki/display/DEmanual/Managing+Data+Files+and+Folders>`_.
+
+|datamenu|
+
+
+Upload menu
+-----------
+
+    - `Upload (simple and bulk) and import <https://wiki.cyverse.org/wiki/display/DEmanual/Managing+Data+Files+and+Folders>`_ files and folders
+
+
+File menu
+---------
+
+    - `Open a new window in your home folder or at a selected location <https://wiki.cyverse.org/wiki/display/DEmanual/Opening+New+Data+Windows>`_ 
+    - `Create a new folder <https://wiki.cyverse.org/wiki/display/DEmanual/Creating+New+Files+and+Folders>`_ 
+    - `Create a new file <https://wiki.cyverse.org/wiki/display/DEmanual/Creating+New+Files+and+Folders>`_ including plain text files; tabular data files; R, Perl, Python, and Shell scripts; and Markdown files.
+    - `Move a file or folder to Trash <https://wiki.cyverse.org/wiki/pages/viewpage.action?pageId=11446737>`_ 
+
+
+Edit menu
+---------
+
+    - `Rename a file or folder <https://wiki.cyverse.org/wiki/display/DEmanual/Renaming+a+Data+File+or+Folder>`_
+    - `Edit files and folders <https://wiki.cyverse.org/wiki/display/DEmanual/Editing+Files+and+Folders>`_
+    - `Edit data comments <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing%2C+Adding%2C+and+Retracting+Data+Comments>`_ 
+    - `Edit information type <https://wiki.cyverse.org/wiki/display/DEmanual/Editing+a+File%27s+Info-Type>`_ 
+    - `Move files and folders <https://wiki.cyverse.org/wiki/display/DEmanual/Moving+a+Data+File+or+Folder>`_ 
+
+
+Dowload menu
+------------
+
+    - `Download a file or folder using Simple or Bulk ownload <https://wiki.cyverse.org/wiki/display/DEmanual/Downloading+Files+and+Folders>`_ 
+
+
+
+Share menu
+----------
+
+    - `Share a file or folder with collaborators in the DE <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+and+Unsharing+Data+Files+and+Folders+in+the+DE>`_ 
+    - `Create a Public Link to a file <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+Via+Public+Links>`_ 
+    - `Share a folder location <https://wiki.cyverse.org/wiki/display/DEmanual/Creating+Shared+Path+Folder+Links>`_ 
+    - View genome files in `CoGe <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+Genome+Files+in+CoGe>`_ or `Ensembl <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+Genome+Files+in+a+Genome+Browser>`_, or Newick files in the `Tree Viewer <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+Newick+Files+in+the+Tree+Viewer>`_. These commands are also available for selected CoGe, Ensembl, or Newick files in the details pane. 
+
+
+Metadata
+--------
+
+    - Use `metadata and metadata templates <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE>`_, and `request a permanent identifier <https://wiki.cyverse.org/wiki/display/DC/Requesting+a+Permanent+Identifier+in+the+Data+Commons>`_ (DOI or ARK) to allow others to reuse your datasets
+
+
+Refresh
+-------
+
+    - Refresh the Data window if results are not updating as expected.
+
+
+Search
+------
+
+    - Search for a file using `basic or advanced search <https://wiki.cyverse.org/wiki/display/DEmanual/Searching+for+Data+Items>`_.
+
+
+Trash
+-----
+
+    - `Open, restore, empty the trash, or delete data items in the trash <https://wiki.cyverse.org/wiki/pages/viewpage.action?pageId=11446737>`_
+
+
+
+-------------------
+Using the Data list
+-------------------
+
+    - Click in the search field, or paste the path, to search for a file or folder.
+    - Click a folder in the Navigation list to displays its contents (files and subfolders) in the middle column.
+    - Click a checkbox in the middle pane to view details about the item in the Details section in the right column.
 
 
 
