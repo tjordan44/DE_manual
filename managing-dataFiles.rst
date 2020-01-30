@@ -175,7 +175,8 @@ You can sort on any column in the Data list, and hide or show columns to customi
         - To hide or show a column, point to **Columns**, and then select or clear the checkbox for the column.
 
 
-    .. tip:: **Need to view the path?** Show the **Path** column to help you determine which file or folder to use in search results. 
+    .. tip:: **Need to view the path?** 
+    Show the **Path** column to help you determine which file or folder to use in search results. 
 
 
 
