@@ -281,7 +281,25 @@ Click the checkbox for a file or folder in the middle column to view information
       - Add or delete a `tag <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Data+Tags+and+Tag+Descriptions>`_ for a file or folder, or enter a description about the tag or data item. 
       - |check|
       - |check|
-      
+
+
+
+Basic process
+-------------
+
+To begin, you need the data files you want to use in your analysis. You can use any file in your personal, Community Data, or Shared With Me folder, or you can `upload or import a data file <https://wiki.cyverse.org/wiki/display/DEmanual/Changing+and+Viewing+Data+Permission+Levels+in+the+DE>`_ to your personal folder. Once the data file is in your workspace folder or in the Community Data folder, you can:
+
+ - `Use the file <https://wiki.cyverse.org/wiki/display/DEmanual/Submitting+an+Analysis>`_ in an analysis.
+ - `View the outputs <https://wiki.cyverse.org/wiki/display/DEmanual/Relaunching%2C+Canceling%2C+and+Deleting+Analyses%2C+Viewing+Analysis+Outputs+and+Info>`_ of a completed analysis.
+ - `Download <https://wiki.cyverse.org/wiki/display/DEmanual/Downloading+Files+and+Folders>`_ data files, output files, and folders.
+ - `Add or view metadata <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE>`_ in files and folders.
+ - `Add tags and tag descriptions <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Data+Tags+and+Tag+Descriptions>`_ to files and folders.
+
+
+.. tip::
+    It is also possible to manage data outside of the Discovery Environment using other tools, as documented in `Downloading and Uploading Data <https://wiki.cyverse.org/wiki/display/DS/Downloading+and+Uploading+Data>`_.
+    
+
 
 
 
