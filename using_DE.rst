@@ -101,6 +101,7 @@ At the top right of each data, apps, or analyses window are icons to help you le
       - Minimize, Maximize, or close the active window. 
 
 
+
 ----
 
 **Fix or improve this documentation:**
