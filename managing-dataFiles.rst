@@ -227,8 +227,40 @@ Click the checkbox for a file or folder in the middle column to view information
     * - .. image:: img/de/Data_FileDetailsPane.jpg
       - .. image:: img/de/Data_FolderDetailsPane.jpg
 
-.. Comment: This table need to be fixed
 
+.. |check| image:: img/de/check.png
+
+.. list-table::
+    :header-rows: 1
+
+    * - **Details Option**
+      - **Description**
+      - **File**
+      - **Folder**
+    * - Last Modified
+      - Date the item was last modified by the owner.
+      - |check|
+      - |check|
+    * - Date Submitted
+      - Date the owner `shared it publicly <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+your+App+or+Workflow+and+Editing+the+User+Manual>`_ with other CyVerse users.
+      - |check|
+      - |check|
+    * - Permissions
+      - `Permission level <https://wiki.cyverse.org/wiki/display/DEmanual/Changing+and+Viewing+Data+Permission+Levels+in+the+DE>`_ you have been granted for the item.
+      - |check|
+      - |check|
+    * - Share
+      - Displays whether the file or folder has been `shared <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+and+Folders>`_. If you are the owner, allows you to access the file or folder to share or change sharing permissions.
+      - |check|
+      - |check|
+    * - Size
+      - Size of the file. 
+      - |check|
+      - |check|
+    * - Type
+      - File type for the file.
+      - |check|
+    
 
 
 
