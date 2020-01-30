@@ -214,7 +214,18 @@ Using the Data actions icons
       - Add or retract `comments about a file or folder <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing%2C+Adding%2C+and+Retracting+Data+Comments>`_ 
 
         
+Viewing Details
+---------------
 
+Click the checkbox for a file or folder in the middle column to view information about it in the Details section on the right side of the Data window. The options that are available depend upon whether a file or a folder is selected.
+
+.. list-table::
+    :header-rows: 1
+
+    * - **File Details**
+      - .. image:: img/de/Data_FileDetailsPane.jpg
+    * - **Folder Details**
+      - .. image:: img/de/Data_FolderDetailsPane.jpg
 
 
 
