@@ -134,6 +134,10 @@ Viewing and selecting files and folders
 
 The navigation list in the left pane is where you navigate through data files and folders in your personal workspace. 
 
+
+.. list-table::
+    :header-rows: 0
+    
     * - Personal folder
       - Click your username folder to `view the list of data items <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+and+Customizing+Data+Files>`_ you own.
     * - Community Data
@@ -194,18 +198,20 @@ Using the Data actions icons
 .. |commentsicon| image:: img/de/DataActionsCommentsIcon.jpg
 
 
+.. list-table::
+    :header-rows: 0
 
-* - |sharedpath|
-    |publiclink|
-  - Create a `Shared Path Folder Link <https://wiki.cyverse.org/wiki/display/DEmanual/Creating+Shared+Path+Folder+Links>`_ (folders only)
-    *or*
-    Share the item `via Public Link <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+Via+Public+Links>`_ (files only)
-* - |shareviade|
-  - Share the item `Via the Discovery Environment <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+and+Unsharing+Data+Files+and+Folders+in+the+DE>`_ 
-* - Netadata
-  - Add or edit `metadata or select a metadate template <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE>`_ 
-* - |commentsicon|
-  - Add or retract `comments about a file or folder <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing%2C+Adding%2C+and+Retracting+Data+Comments>`_ 
+    * - |sharedpath|
+        |publiclink|
+      - Create a `Shared Path Folder Link <https://wiki.cyverse.org/wiki/display/DEmanual/Creating+Shared+Path+Folder+Links>`_ (folders only)
+        *or*
+        Share the item `via Public Link <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+Via+Public+Links>`_ (files only)
+    * - |shareviade|
+      - Share the item `Via the Discovery Environment <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+and+Unsharing+Data+Files+and+Folders+in+the+DE>`_ 
+    * - Netadata
+      - Add or edit `metadata or select a metadate template <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE>`_ 
+    * - |commentsicon|
+      - Add or retract `comments about a file or folder <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing%2C+Adding%2C+and+Retracting+Data+Comments>`_ 
 
         
 
