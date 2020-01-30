@@ -298,7 +298,20 @@ To begin, you need the data files you want to use in your analysis. You can use 
 
 .. tip::
     It is also possible to manage data outside of the Discovery Environment using other tools, as documented in `Downloading and Uploading Data <https://wiki.cyverse.org/wiki/display/DS/Downloading+and+Uploading+Data>`_.
-    
+
+
+
+.. toctree::
+	:maxdepth: 9
+  managing-dataFileschildpages/uploading-importingData.rst
+  managing-dataFileschildpages/uploading-filesAndFolders.rst
+  managing-dataFileschildpages/searching-dataItems.rst
+  managing-dataFileschildpages/editing-filesAndFolders.rst
+  managing-dataFileschildpages/sharingDataFiles.rst
+  managing-dataFileschildpages/using-metadataInDe.rst
+  managing-dataFileschildpages/using-dataTags.rst
+  managing-dataFileschildpages/opening-newDataWindows.rst
+  managing-dataFileschildpages/creating-newFiles.rst
 
 
 

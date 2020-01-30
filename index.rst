@@ -16,7 +16,7 @@ Welcome to Discovery Environment!
 ----
 
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 9
   using_DE.rst
   managing-dataFiles.rst
   using_VICE.rst
