@@ -129,9 +129,55 @@ Using the Data list
     - Click a folder in the Navigation list to displays its contents (files and subfolders) in the middle column.
     - Click a checkbox in the middle pane to view details about the item in the Details section in the right column.
 
+Viewing and selecting files and folders
+---------------------------------------
+
+The navigation list in the left pane is where you navigate through data files and folders in your personal workspace. 
+
+    * - Personal folder
+      - Click your username folder to `view the list of data items <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+and+Customizing+Data+Files>`_ you own.
+    * - Community Data
+      - View the list of data items that have been `shared <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+and+Folders>`_ by other CyVerse account users.
+    * - Shared With Me
+      - Click the `shared with me <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+and+Folders>`_ folder (does not show if no one has shared any items with you) to view data items that have been shared with you by other users.
+    * - Trash
+      - Click the `Trash <https://wiki.cyverse.org/wiki/pages/viewpage.action?pageId=11446737>`_ folder to view the list of deleted data items, empty the Trash folder to permanently delete all items in the folder, or delete selected items. 
+    * - Saved filters
+      - If you `saved any search filters <https://wiki.cyverse.org/wiki/display/DEmanual/Searching+for+Data+Items#SearchingforDataItems-_savedSearchFilter>`_, the Saved filters folder is displayed below the Trash folder.
+    * - Favorites
+      - The list of your `favorite files and folders <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Data+Favorites>`_. 
 
 
-----
+Understanding inaccessible data items
+-------------------------------------
+
+Data items that are inaccessible are displayed in red italicized font.
+
+.. image:: de/img/InaccessibleDataItem.gif
+
+
+This may be due to special characters (' or ~) in the path or name, or system-level items, such as your iplant/home/shared folder or your home directory. 
+These data items cannot be opened, renamed, moved, deleted, or accessed in any way. For more information, see `Using Special Characters in the DE <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Special+Characters+in+the+DE>`_.
+
+
+Sorting, adding, and hiding columns in the Data list
+----------------------------------------------------
+
+You can sort on any column in the Data list, and hide or show columns to customize the look of your Data list.
+
+    1. Hover over the column header until a down arrow appears on the right side of the column, and then click the down arrow:
+
+    .. image:: de/img/ColumnDropdown.png
+
+    2. Click the setting to use
+
+        - To sort the column, click either **Sort Ascending** or **Sort Descending**. 
+        - To hide or show a column, point to **Columns**, and then select or clear the checkbox for the column.
+
+
+    .. tip:: **Need to view the path?** Show the **Path** column to help you determine which file or folder to use in search results. 
+
+
 
 **Fix or improve this documentation:**
 

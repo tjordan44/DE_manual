@@ -21,10 +21,10 @@ Table of Contents
 .. toctree::
       :titlesonly:
 
-      logIn-out-DE
-      using-preferences-menu
-      Viewing-deleting-notifications
-      Feedback-Help
+      using_DEchildpages/logIn-out-DE
+      using_DEchildpages/using-preferences-menu
+      using_DEchildpages/Viewing-deleting-notifications
+      using_DEchildpages/Feedback-Help
 
 **Navigating the app**
 ----------------------
