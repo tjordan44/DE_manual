@@ -180,6 +180,40 @@ You can sort on any column in the Data list, and hide or show columns to customi
 
 
 
+Using the Data actions icons
+----------------------------
+
+.. |sharedpath| image:: de/img/DataActionsSharePathIcon.png
+
+.. |publiclink| image:: de/img/Data_ShareViaPublicLinkIcon.png
+
+.. |shareviade| image:: de/img/DataActionsShareViaDe.png
+
+.. |metadataicon| image:: de/img/DataActionsMetadataIcon.jpg
+
+.. |commentsicon| image:: de/img/DataActionsCommentsIcon.jpg
+
+
+
+    * - |sharedpath|
+        |publiclink|
+      - Create a `Shared Path Folder Link <https://wiki.cyverse.org/wiki/display/DEmanual/Creating+Shared+Path+Folder+Links>`_ (folders only)
+        *or*
+        Share the item `via Public Link <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+Via+Public+Links>`_ (files only)
+    * - |shareviade|
+      - Share the item `Via the Discovery Environment <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+and+Unsharing+Data+Files+and+Folders+in+the+DE>`_ 
+    * - Netadata
+      - Add or edit `metadata or select a metadate template <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE>`_ 
+    * - |commentsicon|
+      - Add or retract `comments about a file or folder <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing%2C+Adding%2C+and+Retracting+Data+Comments>`_ 
+
+        
+
+
+
+
+
+
 **Fix or improve this documentation:**
 
 - On Github: |Github Repo Link|
