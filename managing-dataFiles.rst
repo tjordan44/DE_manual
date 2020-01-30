@@ -260,6 +260,8 @@ Click the checkbox for a file or folder in the middle column to view information
     * - Type
       - File type for the file.
       - |check|
+      - 
+      
     
 
 
