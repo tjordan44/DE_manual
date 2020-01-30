@@ -153,7 +153,7 @@ Understanding inaccessible data items
 
 Data items that are inaccessible are displayed in red italicized font.
 
-.. image:: de/img/InaccessibleDataItem.gif
+.. image: img/de/InaccessibleDataItem.gif
 
 
 This may be due to special characters (' or ~) in the path or name, or system-level items, such as your iplant/home/shared folder or your home directory. 
@@ -167,7 +167,7 @@ You can sort on any column in the Data list, and hide or show columns to customi
 
     1. Hover over the column header until a down arrow appears on the right side of the column, and then click the down arrow:
 
-    .. image:: de/img/ColumnDropdown.png
+    .. image:: img/de/ColumnDropdown.png
 
     2. Click the setting to use
 
@@ -183,15 +183,15 @@ You can sort on any column in the Data list, and hide or show columns to customi
 Using the Data actions icons
 ----------------------------
 
-.. |sharedpath| image:: de/img/DataActionsSharePathIcon.png
+.. |sharedpath| image:: img/de/DataActionsSharePathIcon.png
 
-.. |publiclink| image:: de/img/Data_ShareViaPublicLinkIcon.png
+.. |publiclink| image:: img/de/Data_ShareViaPublicLinkIcon.png
 
-.. |shareviade| image:: de/img/DataActionsShareViaDe.png
+.. |shareviade| image:: img/de/DataActionsShareViaDe.png
 
-.. |metadataicon| image:: de/img/DataActionsMetadataIcon.jpg
+.. |metadataicon| image:: img/de/DataActionsMetadataIcon.jpg
 
-.. |commentsicon| image:: de/img/DataActionsCommentsIcon.jpg
+.. |commentsicon| image:: img/de/DataActionsCommentsIcon.jpg
 
 
 
