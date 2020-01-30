@@ -137,7 +137,7 @@ The navigation list in the left pane is where you navigate through data files an
 
 .. list-table::
     :header-rows: 0
-    
+
     * - Personal folder
       - Click your username folder to `view the list of data items <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+and+Customizing+Data+Files>`_ you own.
     * - Community Data
@@ -202,9 +202,12 @@ Using the Data actions icons
     :header-rows: 0
 
     * - |sharedpath|
+        
         |publiclink|
       - Create a `Shared Path Folder Link <https://wiki.cyverse.org/wiki/display/DEmanual/Creating+Shared+Path+Folder+Links>`_ (folders only)
+        
         *or*
+        
         Share the item `via Public Link <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+Via+Public+Links>`_ (files only)
     * - |shareviade|
       - Share the item `Via the Discovery Environment <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+and+Unsharing+Data+Files+and+Folders+in+the+DE>`_ 
