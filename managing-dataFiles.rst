@@ -202,12 +202,12 @@ Using the Data actions icons
     :header-rows: 0
 
     * - |sharedpath|
-        
+        \n
         |publiclink|
       - Create a `Shared Path Folder Link <https://wiki.cyverse.org/wiki/display/DEmanual/Creating+Shared+Path+Folder+Links>`_ (folders only)
-        
+        \n
         *or*
-        
+        \n
         Share the item `via Public Link <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+Data+Files+Via+Public+Links>`_ (files only)
     * - |shareviade|
       - Share the item `Via the Discovery Environment <https://wiki.cyverse.org/wiki/display/DEmanual/Sharing+and+Unsharing+Data+Files+and+Folders+in+the+DE>`_ 
