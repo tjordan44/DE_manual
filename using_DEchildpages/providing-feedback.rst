@@ -8,7 +8,7 @@
 Providing Feedback and Getting help with the Discovery Environment
 ==================================================================
 
-.. |helpicon| image:: img/de/HelpIcon.png
+.. |helpicon| image:: img/HelpIcon.png
 
 You can submit and contact Support, all within the Discovery Environment. 
 Your feedback about the Discovery Environment gives us important information about how your experiences within the DE. 

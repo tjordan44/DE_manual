@@ -15,7 +15,7 @@
 
 **Logging out of the Discovery Environment**
 --------------------------------------------
-.. |person_icon| image:: img/de/person_icon.png
+.. |person_icon| image:: img/person_icon.png
 
     1. Click the |person_icon| preferences icon at the top of the screen.
     

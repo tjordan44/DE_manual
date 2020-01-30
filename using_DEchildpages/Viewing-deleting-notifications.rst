@@ -4,7 +4,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-.. |notificationsicon| image:: img/de/NotificationsIcon.png
+.. |notificationsicon| image:: img/NotificationsIcon.png
 
 
 
@@ -27,7 +27,7 @@ Click **See all notifications** to open the **first page** of up to 10 notificat
 
    - To filter by only new, all, data, or analysis notifications, click the drop-down list on the top left of the window and select the notification filter type.
 
-   .. image:: img/de/Notifications-FilterDropdown.png
+   .. image:: img/Notifications-FilterDropdown.png
 
    For information on Tool Requests, see `Adding or Requesting a New Tool <https://wiki.cyverse.org/wiki/display/DEmanual/Adding+or+Requesting+a+New+Tool>`_.
    
@@ -35,7 +35,7 @@ Click **See all notifications** to open the **first page** of up to 10 notificat
 
    - To jump to a different page of notifications, if available, click the navigation arrows or enter a page number at the bottom of the window. 
 
-   .. image:: img/de/ViewNotifs.png
+   .. image:: img/ViewNotifs.png
 
 
 

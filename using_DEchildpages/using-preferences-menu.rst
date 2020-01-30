@@ -11,13 +11,13 @@
 
 **Opening the Preferences settings window**
 
-.. |person_icon| image:: img/de/person_icon.png  
+.. |person_icon| image:: img/person_icon.png  
     :width: 2
-.. |X-icon| image:: img/de/X-icon.png
+.. |X-icon| image:: img/X-icon.png
     
 Click |person_icon| at the top right of the window and then click **Preferences:**
 
-.. image:: img/de/Preferences.jpg
+.. image:: img/Preferences.jpg
 
 
 **Changing Preferences**
@@ -39,7 +39,7 @@ Although a user does not have to be in your Collaborators list to share a data f
 
 **Adding a user to your Collaborators list in Preferences**
 
-.. |CollaboratorsWindow| image:: img/de/CollaboratorsWindow.png
+.. |CollaboratorsWindow| image:: img/CollaboratorsWindow.png
 
 1. Click |person_icon| (Preferences) at the top right of the screen.
 2. Click **Collaborators**: 
@@ -84,7 +84,7 @@ System Messages are accessed from the Preferences menu.
 **Viewing system messages**
 
 
-.. |closewindowicon| image:: img/de/CloseWindowIcon.png
+.. |closewindowicon| image:: img/CloseWindowIcon.png
 
 1. Click |person_icon| (Preferences) at the top right of the screen.
 2. Click **System Messages**:
@@ -99,7 +99,7 @@ System Messages are accessed from the Preferences menu.
 
 1. Click **Read it** in the announcement at the tip right of the window:
 
-.. image:: img/de/ImportantAnnouncement.png
+.. image:: img/ImportantAnnouncement.png
 
 after reading the announcement, the message is no longer displayed.
 
