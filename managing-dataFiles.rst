@@ -261,8 +261,27 @@ Click the checkbox for a file or folder in the middle column to view information
       - File type for the file.
       - |check|
       - 
+    * - Info-Type
+      - `Info-type <https://wiki.cyverse.org/wiki/display/DEmanual/Editing+a+File%27s+Info-Type>`_ for the file.
+      - |check|
+      -
+    * - md5 Checksum
+      - Useful for comparing files and verifying the integrity of the downloaded file.
+      - |check|
+      -
+    * - Send to
+      - CoGe, Ensemble, or Newick files only. Allows you to send a genome file to `CoGe <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+Genome+Files+in+CoGe>`_ or `Ensembl <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+Genome+Files+in+a+Genome+Browser>`_, or a Newick file to the `Tree Viewer <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+Newick+Files+in+the+Tree+Viewer>`_. These commands are also available in the share menu.
+      - |check|
+      -
+    * - File(s)/Folder(s)
+      - Number of files and subfolders contained in the folder.
+      - 
+      - |check|
+    * - Tags
+      - Add or delete a `tag <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Data+Tags+and+Tag+Descriptions>`_ for a file or folder, or enter a description about the tag or data item. 
+      - |check|
+      - |check|
       
-    
 
 
 
