@@ -219,14 +219,15 @@ Viewing Details
 
 Click the checkbox for a file or folder in the middle column to view information about it in the Details section on the right side of the Data window. The options that are available depend upon whether a file or a folder is selected.
 
-.. list-table::
+.. list-table:: Title
     :header-rows: 1
 
     * - **File Details**
-      - .. image:: img/de/Data_FileDetailsPane.jpg
-    * - **Folder Details**
+      - **Folder Details**
+    * - .. image:: img/de/Data_FileDetailsPane.jpg
       - .. image:: img/de/Data_FolderDetailsPane.jpg
 
+.. Comment: This table need to be fixed
 
 
 
